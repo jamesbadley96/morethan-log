@@ -1,7 +1,7 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "James Badley",
+    name: "JamesBadley",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "Musicologist - Musician - Researcher",
     bio: "Blog Posts and Music Data",
@@ -18,7 +18,7 @@ const CONFIG = {
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
+    title: "morethan-JamesBadley",
     description: "welcome to morethan-log!",
   },
 

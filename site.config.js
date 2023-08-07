@@ -1,18 +1,18 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "morethanmin",
+    name: "James Badley",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "frontend developer",
-    bio: "I develop everything using node.",
-    email: "morethanmin.dev@gmail.com",
-    linkedin: "morethanmin",
-    github: "morethanmin",
+    role: "Musicologist - Musician - Researcher",
+    bio: "Blog Posts and Music Data",
+    email: "jamesbadley@sparkmail.com",
+    linkedin: "james-badley",
+    github: "jamesbadley96",
     instagram: "",
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Blog Posts and Music Data`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
@@ -47,7 +47,7 @@ const CONFIG = {
     },
   },
   utterances: {
-    enable: true,
+    enable: false,
     config: {
       repo: "morethanmin/morethan-log",
       "issue-term": "og:title",
